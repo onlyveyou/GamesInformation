@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IQKeyboardManager.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>RESideMenu.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0FAD17C02CA38BC8BCABDA2D76C38EC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>294AE0013DB462A1C6ED3FD868549877</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>30CF2F2FCC01E36ACEDA3FA83A867CD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>46241E72592E359390BCD7BD61695354</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EFBD498BB7A2BBC40BAAFE19904C9B90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
